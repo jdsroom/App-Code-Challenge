@@ -1,8 +1,8 @@
-package com.apple.codeChallange.response;
+package com.app.codeChallange.response;
 
 import java.util.List;
 
-import com.apple.codeChallange.entity.Continent;
+import com.app.codeChallange.entity.Continent;
 
 public class ContinentResponse {
 

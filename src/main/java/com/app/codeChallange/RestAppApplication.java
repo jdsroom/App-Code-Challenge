@@ -1,4 +1,4 @@
-package com.apple.codeChallange;
+package com.app.codeChallange;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -8,8 +8,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.util.ResourceUtils;
 
-import com.apple.codeChallange.entity.Continent;
-import com.apple.codeChallange.repository.CrudRepository;
+import com.app.codeChallange.entity.Continent;
+import com.app.codeChallange.repository.CrudRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 

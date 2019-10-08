@@ -1,4 +1,4 @@
-package com.apple.codeChallange.exception;
+package com.app.codeChallange.exception;
 
 import java.util.Date;
 

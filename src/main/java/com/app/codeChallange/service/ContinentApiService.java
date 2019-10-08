@@ -1,9 +1,9 @@
-package com.apple.codeChallange.service;
+package com.app.codeChallange.service;
 
 import java.util.List;
 
-import com.apple.codeChallange.entity.Continent;
-import com.apple.codeChallange.entity.Country;
+import com.app.codeChallange.entity.Continent;
+import com.app.codeChallange.entity.Country;
 
 public interface ContinentApiService {
 

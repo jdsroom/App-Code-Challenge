@@ -1,4 +1,4 @@
-package com.apple.codeChallange.entity;
+package com.app.codeChallange.entity;
 
 import java.util.ArrayList;
 import java.util.List;

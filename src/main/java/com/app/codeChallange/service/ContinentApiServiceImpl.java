@@ -1,13 +1,13 @@
-package com.apple.codeChallange.service;
+package com.app.codeChallange.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.apple.codeChallange.entity.Continent;
-import com.apple.codeChallange.entity.Country;
-import com.apple.codeChallange.repository.ContinentRepository;
+import com.app.codeChallange.entity.Continent;
+import com.app.codeChallange.entity.Country;
+import com.app.codeChallange.repository.ContinentRepository;
 
 @Service
 public class ContinentApiServiceImpl implements ContinentApiService {

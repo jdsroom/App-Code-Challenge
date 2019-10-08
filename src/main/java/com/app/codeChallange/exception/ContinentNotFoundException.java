@@ -1,4 +1,4 @@
-package com.apple.codeChallange.exception;
+package com.app.codeChallange.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

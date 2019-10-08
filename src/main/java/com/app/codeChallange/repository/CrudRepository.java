@@ -1,4 +1,4 @@
-package com.apple.codeChallange.repository;
+package com.app.codeChallange.repository;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.apple.codeChallange.entity.Continent;
-import com.apple.codeChallange.entity.Country;
+import com.app.codeChallange.entity.Continent;
+import com.app.codeChallange.entity.Country;
 
 @Repository
 @Transactional

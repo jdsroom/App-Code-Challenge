@@ -1,9 +1,9 @@
-package com.apple.codeChallange.repository;
+package com.app.codeChallange.repository;
 
 import java.util.List;
 
-import com.apple.codeChallange.entity.Continent;
-import com.apple.codeChallange.entity.Country;
+import com.app.codeChallange.entity.Continent;
+import com.app.codeChallange.entity.Country;
 
 
 public interface ContinentRepository  {

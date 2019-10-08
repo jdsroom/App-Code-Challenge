@@ -1,4 +1,4 @@
-package com.apple.codeChallange.controller;
+package com.app.codeChallange.controller;
 
 import java.util.List;
 
@@ -12,13 +12,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.apple.codeChallange.entity.Continent;
-import com.apple.codeChallange.entity.Country;
-import com.apple.codeChallange.exception.ContinentNotFoundException;
-import com.apple.codeChallange.exception.CountryNotFoundException;
-import com.apple.codeChallange.response.ContinentResponse;
-import com.apple.codeChallange.response.CountryResponse;
-import com.apple.codeChallange.service.ContinentApiServiceImpl;
+import com.app.codeChallange.entity.Continent;
+import com.app.codeChallange.entity.Country;
+import com.app.codeChallange.exception.ContinentNotFoundException;
+import com.app.codeChallange.exception.CountryNotFoundException;
+import com.app.codeChallange.response.ContinentResponse;
+import com.app.codeChallange.response.CountryResponse;
+import com.app.codeChallange.service.ContinentApiServiceImpl;
 
 @RestController
 @RequestMapping("/continent")
